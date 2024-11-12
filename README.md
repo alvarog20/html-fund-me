@@ -1,2 +1,1 @@
-1.  HTML/Javascript
-    Later on, we will use Nextjs/Reactjs
+First try using HTML and Web3
